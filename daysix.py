@@ -104,8 +104,8 @@
 
 #print digits one by one
 
-num = input('Enter 4 numbers')
-count = 0
-while count < len(num):
-    print(num[count])
-    count +=1
+# num = input('Enter 4 numbers')
+# count = 0
+# while count < len(num):
+#     print(num[count])
+#     count +=1
